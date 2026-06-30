@@ -6,8 +6,6 @@
 
 ## 📷 Dashboard Preview
 
-> Replace the image name below if your screenshot has a different name.
-
 ![Dashboard Preview](Dashboard_screenshot.png)
 
 ---
@@ -138,9 +136,3 @@ PowerBI-Sales-Dashboard/
 - DAX
 - Python (Learning)
 - Data Visualization
-
----
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a **⭐ Star** on GitHub.
