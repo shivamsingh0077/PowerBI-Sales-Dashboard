@@ -101,22 +101,11 @@ PowerBI-Sales-Dashboard/
 
 ---
 
-## ▶️ How to Use
-
-1. Download or clone this repository.
-2. Open `Sales_Dashboard.pbix` using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
-4. Explore the dashboard using interactive filters and slicers.
-
----
-
 ## 📂 Dataset
 
 - **Source:** Sample Sales Dataset
 - **Format:** Excel (.xlsx)
-
-> Replace the dataset with a sample version before sharing publicly if it contains confidential information.
-
+- 
 ---
 
 ## 👨‍💻 Author
